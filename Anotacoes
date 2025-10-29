@@ -1,0 +1,5 @@
+Ordem de realizacao ao fazer operacoes aritmeticas no python
+1/ Tudo que estiver entre parenteses (). Podem ser concatenadas
+2/ ** exponenciacao
+3/ * / // % multiplicacao, divisao, divisao inteira e resto da divisao
+4/ + e -
