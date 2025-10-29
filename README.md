@@ -14,7 +14,7 @@ Aprender a base da linguagem Python e desenvolver lógica de programação.
 
 ## 🛠️ Tecnologias
 - **Python 3**
-- Editor: VS Code
+- Editor: Pycharm
 
 ## 📂 Estrutura
 Cada aula ou exercício está organizada em arquivos separados, nomeados conforme o conteúdo estudado.

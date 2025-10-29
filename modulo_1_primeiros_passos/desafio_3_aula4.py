@@ -1,3 +1,4 @@
-numero1 = input('qual o primeiro número?')
-numero2 = input('qual o segundo número?')
-print("A soma foi de:" , numero1 + numero2)
+numero1 = int(input('qual o primeiro número?'))
+numero2 = int(input('qual o segundo número?'))
+resolution = numero1 + numero2
+print('A soma entre {}'.format(numero1), ' e {}'.format(numero2), 'foi de: {} '.format(resolution))

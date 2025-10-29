@@ -1,0 +1,8 @@
+value = str(input('Escreva algo'))
+print (type("O que você escreveu foi {}".format(value)))
+print("Só tem espaços? {}".format(value.isspace()))
+print("Só tem letras? {}".format(value.isalpha()))
+print("É alpha numérico? {}".format(value.isalnum()))
+print("É um decimal? {}".format(value.isdecimal()))
+print("É um minusculo? {}".format(value.islower()))
+print("É um maiusculo? {}".format(value.isupper()))
